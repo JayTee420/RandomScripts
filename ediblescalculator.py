@@ -1,5 +1,3 @@
-from decimal import *
-
 print("How much weed are you using to make the weed butter? (in grams)")
 GramsWeed = input()
 print("What is the THC content of the weed? (in %)")
